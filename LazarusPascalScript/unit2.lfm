@@ -1,0 +1,18 @@
+object Form2: TForm2
+  Left = 426
+  Height = 300
+  Top = 312
+  Width = 400
+  Caption = 'Form2'
+  ClientHeight = 300
+  ClientWidth = 400
+  LCLVersion = '0.9.28.2'
+  object Label1: TLabel
+    Left = 118
+    Height = 14
+    Top = 133
+    Width = 152
+    Caption = 'Segunda form do seu programa'
+    ParentColor = False
+  end
+end
