@@ -1,0 +1,10 @@
+2018-03-13 18:10:55.034 - SQL: Trying Query.Open: select '-' || FAT_CDFATURA FAT_CDFATURA from FATURAS_FAT
+2018-03-13 18:11:09.245 - Transaction: Trying Query.Apply
+2018-03-13 18:11:29.559 - SQL: Trying Query.Open: select '-' || FAT_CDFATURA as FAT_CDFATURA from FATURAS_FAT
+2018-03-13 18:11:50.168 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-13 18:12:02.631 - Transaction: Trying Query.Apply
+2018-03-13 18:12:47.131 - SQL: Trying Query.Open: select FAT_CDFATURA as id ,FAT_CDFATURA as Name from FATURAS_FAT
+2018-03-13 18:13:14.270 - SQL: Trying Query.Open: select FAT_CDFATURA as id ,FAT_CDFATURA as Name from FATURAS_FAT
+2018-03-13 18:13:48.055 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-13 18:13:54.719 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-13 18:14:11.479 - Transaction: Trying Query.Apply

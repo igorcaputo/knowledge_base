@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="17">
+      <Unit0>
+        <Filename Value="opf004.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="109"/>
+        <CursorPos Y="128"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\opf\drivers\jcoreopfdriversqldb.pas"/>
+        <UnitName Value="JCoreOPFDriverSQLdb"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="179"/>
+        <CursorPos Y="197"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\packages\fcl-db\src\sqldb\sqldb.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3366"/>
+        <CursorPos X="14" Y="752"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\opf\db\jcoreopfsqlite.pas"/>
+        <UnitName Value="JCoreOPFSQLite"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="20" Y="43"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\opf\jcoreopfconfig.pas"/>
+        <UnitName Value="JCoreOPFConfig"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="205"/>
+        <CursorPos Y="238"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\opf\jcoreopfmapping.pas"/>
+        <UnitName Value="JCoreOPFMapping"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="324"/>
+        <CursorPos Y="342"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="717"/>
+        <CursorPos X="3" Y="735"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\opf\jcoreopfdriver.pas"/>
+        <UnitName Value="JCoreOPFDriver"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="513"/>
+        <CursorPos Y="549"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\packages\fcl-db\src\sqldb\postgres\pqconnection.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="25" Y="2"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\packages\sqlite\src\sqlite3.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\packages\sqlite\src\sqlite.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\core\jcorelogger.pas"/>
+        <UnitName Value="JCoreLogger"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="150"/>
+        <CursorPos Y="169"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <UnitName Value="JCoreOPFSession"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="210"/>
+        <CursorPos X="39" Y="236"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\core\jcoreentity.pas"/>
+        <UnitName Value="JCoreEntity"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="133"/>
+        <CursorPos X="3" Y="88"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\core\jcoremetadata.pas"/>
+        <UnitName Value="JCoreMetadata"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="15" Y="124"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\..\opf\jcoreopfmappingsql.pas"/>
+        <UnitName Value="JCoreOPFMappingSQL"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="95"/>
+        <CursorPos X="3" Y="86"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\..\opf\jcoreopfmetadata.pas"/>
+        <UnitName Value="JCoreOPFMetadata"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="348"/>
+        <CursorPos X="42" Y="348"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="120" TopLine="90"/>
+      </Position1>
+      <Position2>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="122" TopLine="92"/>
+      </Position2>
+      <Position3>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="111" Column="50" TopLine="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="123" Column="88" TopLine="82"/>
+      </Position4>
+      <Position5>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="113" TopLine="94"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="228" TopLine="210"/>
+      </Position6>
+      <Position7>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="113" TopLine="94"/>
+      </Position7>
+      <Position8>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="29" Column="17" TopLine="19"/>
+      </Position8>
+      <Position9>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="133" Column="15" TopLine="109"/>
+      </Position9>
+      <Position10>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="52" Column="9" TopLine="35"/>
+      </Position10>
+      <Position11>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="127" TopLine="109"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="228" TopLine="210"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="229" TopLine="210"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="230" TopLine="210"/>
+      </Position14>
+      <Position15>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="127" TopLine="109"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="232" TopLine="210"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="234" Column="38" TopLine="210"/>
+      </Position17>
+      <Position18>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="127" TopLine="109"/>
+      </Position18>
+      <Position19>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="228" TopLine="210"/>
+      </Position19>
+      <Position20>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="229" TopLine="210"/>
+      </Position20>
+      <Position21>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="230" TopLine="210"/>
+      </Position21>
+      <Position22>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="231" TopLine="210"/>
+      </Position22>
+      <Position23>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="232" TopLine="210"/>
+      </Position23>
+      <Position24>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="237" TopLine="210"/>
+      </Position24>
+      <Position25>
+        <Filename Value="opf004.lpr"/>
+        <Caret Line="128" TopLine="109"/>
+      </Position25>
+      <Position26>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="228" TopLine="210"/>
+      </Position26>
+      <Position27>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="229" TopLine="210"/>
+      </Position27>
+      <Position28>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="230" TopLine="210"/>
+      </Position28>
+      <Position29>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="233" Column="40" TopLine="210"/>
+      </Position29>
+      <Position30>
+        <Filename Value="..\..\opf\jcoreopfsession.pas"/>
+        <Caret Line="232" TopLine="210"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="5">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="C:\lazarus\fpc\3.0.2\source\packages\fcl-db\src\sqldb\sqldb.pp"/>
+        <Line Value="3295"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\opf\db\jcoreopfsqlite.pas"/>
+        <Line Value="43"/>
+      </Item2>
+      <Item3>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\opf\drivers\jcoreopfdriversqldb.pas"/>
+        <Line Value="273"/>
+      </Item3>
+      <Item4>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="opf004.lpr"/>
+        <Line Value="133"/>
+      </Item4>
+      <Item5>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="opf004.lpr"/>
+        <Line Value="127"/>
+      </Item5>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

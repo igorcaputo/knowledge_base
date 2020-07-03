@@ -1,0 +1,14 @@
+2018-03-12 14:17:30.758 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-12 14:19:19.371 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-12 14:19:49.587 - Transaction: Trying Query.Apply
+2018-03-12 14:20:18.166 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-12 14:20:29.984 - Transaction: Trying Query.Apply
+2018-03-12 14:20:44.544 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-12 14:21:12.051 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-12 14:21:23.453 - Transaction: Trying Query.Apply
+2018-03-12 14:24:33.985 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-12 14:24:59.619 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-12 14:25:21.310 - SQL: Trying Query.Open: select TO_CHAR(FAT_CDFATURA) from FATURAS_FAT
+2018-03-12 14:25:35.496 - SQL: Trying Query.Open: select TO_CHAR(FAT_CDFATURA) FAT_CDFATURA from FATURAS_FAT
+2018-03-12 14:25:48.064 - SQL: Trying Query.Open: select TO_CHAR(FAT_CDFATURA) FAT_CDFATURA from FATURAS_FAT
+2018-03-12 14:25:58.644 - Transaction: Trying Query.Apply

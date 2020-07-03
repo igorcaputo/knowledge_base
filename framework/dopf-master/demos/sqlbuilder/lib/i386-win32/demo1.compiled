@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus2\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1317892300"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Desenvolvimento\Projetos\framework\dopf-master\demos\sqlbuilder\lib\i386-win32 -FuC:\Desenvolvimento\Projetos\framework\dopf-master\brokers -FuC:\Desenvolvimento\Projetos\framework\dopf-master\core -FuC:\Desenvolvimento\Projetos\framework\dopf-master\demos\sqlbuilder\ -FUC:\Desenvolvimento\Projetos\framework\dopf-master\demos\sqlbuilder\lib\i386-win32\ -FEC:\Desenvolvimento\Projetos\framework\dopf-master\demos\sqlbuilder\ -oC:\Desenvolvimento\Projetos\framework\dopf-master\demos\sqlbuilder\demo1.exe demo1.lpr"/>
+</CONFIG>

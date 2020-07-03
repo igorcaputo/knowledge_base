@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus2\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1317892300"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiC:\Desenvolvimento\Projetos\framework\dopf-master\demos\opf\validate\lib\i386-win32 -FuC:\Desenvolvimento\Projetos\framework\dopf-master\core -FuC:\Desenvolvimento\Projetos\framework\dopf-master\brokers -FuC:\Desenvolvimento\Projetos\framework\dopf-master\demos\opf\validate\ -FUC:\Desenvolvimento\Projetos\framework\dopf-master\demos\opf\validate\lib\i386-win32\ -FEC:\Desenvolvimento\Projetos\framework\dopf-master\demos\opf\validate\ -oC:\Desenvolvimento\Projetos\framework\dopf-master\demos\opf\validate\demo1.exe demo1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

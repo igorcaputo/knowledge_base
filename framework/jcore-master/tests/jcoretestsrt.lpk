@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="4">
+    <Name Value="JCoreTestsRT"/>
+    <AddToProjectUsesSection Value="True"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <SearchPaths>
+        <OtherUnitFiles Value="core;opf;ws"/>
+        <UnitOutputDirectory Value="../lib/tests/$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+      <Other>
+        <CustomOptions Value="-vm5024"/>
+      </Other>
+    </CompilerOptions>
+    <Files Count="19">
+      <Item1>
+        <Filename Value="core/testlist.pas"/>
+        <UnitName Value="TestList"/>
+      </Item1>
+      <Item2>
+        <Filename Value="core/testlogger.pas"/>
+        <UnitName Value="TestLogger"/>
+      </Item2>
+      <Item3>
+        <Filename Value="core/testexpression.pas"/>
+        <UnitName Value="TestExpression"/>
+      </Item3>
+      <Item4>
+        <Filename Value="core/testdic.pas"/>
+        <UnitName Value="TestDIC"/>
+      </Item4>
+      <Item5>
+        <Filename Value="opf/testopfmodelcontact.pas"/>
+        <UnitName Value="TestOPFModelContact"/>
+      </Item5>
+      <Item6>
+        <Filename Value="opf/testopfmodelinvoice.pas"/>
+        <UnitName Value="TestOPFModelInvoice"/>
+      </Item6>
+      <Item7>
+        <Filename Value="opf/testopfmodelcircular.pas"/>
+        <UnitName Value="TestOPFModelCircular"/>
+      </Item7>
+      <Item8>
+        <Filename Value="opf/testopfconfig.pas"/>
+        <UnitName Value="TestOPFConfig"/>
+      </Item8>
+      <Item9>
+        <Filename Value="opf/testopfsessiontests.pas"/>
+        <UnitName Value="TestOPFSessionTests"/>
+      </Item9>
+      <Item10>
+        <Filename Value="opf/testopfmetadatatests.pas"/>
+        <UnitName Value="TestOPFMetadataTests"/>
+      </Item10>
+      <Item11>
+        <Filename Value="opf/testopfadmtests.pas"/>
+        <UnitName Value="TestOPFADMTests"/>
+      </Item11>
+      <Item12>
+        <Filename Value="opf/testopfdrivertest.pas"/>
+        <UnitName Value="TestOPFDriverTest"/>
+      </Item12>
+      <Item13>
+        <Filename Value="opf/testopfgeneratortest.pas"/>
+        <UnitName Value="TestOPFGeneratorTest"/>
+      </Item13>
+      <Item14>
+        <Filename Value="opf/testopfcriteriatests.pas"/>
+        <UnitName Value="TestOPFCriteriaTests"/>
+      </Item14>
+      <Item15>
+        <Filename Value="opf/testopfmappingcontact.pas"/>
+        <UnitName Value="TestOPFMappingContact"/>
+      </Item15>
+      <Item16>
+        <Filename Value="opf/testopfmappinginvoice.pas"/>
+        <UnitName Value="TestOPFMappingInvoice"/>
+      </Item16>
+      <Item17>
+        <Filename Value="opf/testopfmappingtests.pas"/>
+        <UnitName Value="TestOPFMappingTests"/>
+      </Item17>
+      <Item18>
+        <Filename Value="opf/testopfmappingmanualtests.pas"/>
+        <UnitName Value="TestOPFMappingManualTests"/>
+      </Item18>
+      <Item19>
+        <Filename Value="opf/testopfmappingautotests.pas"/>
+        <UnitName Value="TestOPFMappingAutoTests"/>
+      </Item19>
+    </Files>
+    <RequiredPkgs Count="3">
+      <Item1>
+        <PackageName Value="JCoreOPFRT"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="JCoreRT"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="FCL"/>
+      </Item3>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>

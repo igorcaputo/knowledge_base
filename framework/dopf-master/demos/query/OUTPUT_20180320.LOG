@@ -1,0 +1,2 @@
+2018-03-20 11:21:57.057 - SQL: Trying Query.Open: select * from FATURAS_FAT
+2018-03-20 11:22:16.655 - Transaction: Trying Query.Apply
