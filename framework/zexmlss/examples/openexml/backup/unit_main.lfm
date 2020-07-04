@@ -1,0 +1,77 @@
+object frmMain: TfrmMain
+  Left = 334
+  Height = 551
+  Top = 66
+  Width = 762
+  BorderStyle = bsSingle
+  Caption = 'Загрузка документов  excel XML в stringgrid'
+  ClientHeight = 551
+  ClientWidth = 762
+  Color = clBtnFace
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Position = poScreenCenter
+  LCLVersion = '1.8.2.0'
+  object lblList: TLabel
+    Left = 176
+    Height = 13
+    Top = 8
+    Width = 31
+    Caption = 'Лист :'
+    ParentColor = False
+  end
+  object SGtest: TStringGrid
+    Left = 16
+    Height = 457
+    Top = 32
+    Width = 729
+    FixedCols = 0
+    FixedRows = 0
+    TabOrder = 0
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'MS Sans Serif'
+  end
+  object btnOpen: TButton
+    Left = 232
+    Height = 49
+    Top = 496
+    Width = 281
+    Caption = 'Загрузить Excel XML'
+    OnClick = btnOpenClick
+    TabOrder = 1
+  end
+  object CBList: TComboBox
+    Left = 208
+    Height = 21
+    Top = 5
+    Width = 217
+    Enabled = False
+    ItemHeight = 13
+    OnSelect = CBListSelect
+    Style = csDropDownList
+    TabOrder = 2
+  end
+  object ODxml: TOpenDialog
+    left = 512
+    top = 88
+  end
+  object ZEXMLSStest: TZEXMLSS
+    Styles.DefaultStyle.Font.Color = clBlack
+    Styles.DefaultStyle.Font.Height = -13
+    Styles.DefaultStyle.Font.Name = 'MS Sans Serif'
+    Styles.DefaultStyle.Alignment.Rotate = 0
+    Styles.DefaultStyle.NumberFormat = 'General'
+    DefaultSheetOptions.SplitVerticalValue = 0
+    DefaultSheetOptions.SplitHorizontalValue = 0
+    DocumentProperties.Author = 'none'
+    DocumentProperties.LastAuthor = 'none'
+    DocumentProperties.Created = 40365.6482514699
+    DocumentProperties.Company = 'none'
+    DocumentProperties.Version = '11.9999'
+    HorPixelSize = 0.265
+    VertPixelSize = 0.265
+    left = 568
+  end
+end

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2012.04.06 14:30:56.062,=rtl.bpi</Transaction>
+    <Transaction>2012.04.06 14:31:52.905,C:\work\tst\ZEXMLSS003\packages\delphiXE\zexmlslibe.cbproj=C:\Users\falcon\Documents\RAD Studio\Projects\Package1.cbproj</Transaction>
+    <Transaction>2012.04.06 14:32:58.958,=C:\work\tst\ZEXMLSS003\src\zeformula.pas</Transaction>
+    <Transaction>2012.04.06 14:32:58.982,=C:\work\tst\ZEXMLSS003\src\zeodfs.pas</Transaction>
+    <Transaction>2012.04.06 14:32:58.995,=C:\work\tst\ZEXMLSS003\src\zesavecommon.pas</Transaction>
+    <Transaction>2012.04.06 14:32:59.016,=C:\work\tst\ZEXMLSS003\src\zexmlss.pas</Transaction>
+    <Transaction>2012.04.06 14:32:59.027,=c:\work\tst\zexmlss003\src\zexmlss.dcr</Transaction>
+    <Transaction>2012.04.06 14:32:59.041,=C:\work\tst\ZEXMLSS003\src\zexmlssutils.pas</Transaction>
+    <Transaction>2012.04.06 14:32:59.065,=C:\work\tst\ZEXMLSS003\src\zsspxml.pas</Transaction>
+    <Transaction>2012.04.06 14:32:59.126,=vcl.bpi</Transaction>
+    <Transaction>2012.04.06 14:32:59.131,=zcolor.bpi</Transaction>
+    <Transaction>2012.04.06 14:34:25.545,=C:\work\tst\ZEXMLSS003\src\duansistr.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,13 @@
+openexml.lpi Note: Adicionada definições -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL nas opções customizadas
+ Progress: Todos os arquivos de unidade encontrados
+ : 
+ : *** Arquivos de unidade sendo convertidos pertencentes ao projeto/pacote ***
+unit_main.pas Note: Codificação alterada de cp1252 para UTF-8
+unit_main.pas Note: Unidade "Windows" substituída com "LCLIntf, LCLType, LMessages" na seção "uses".
+openexml.lpi Note: Adicionado pacote zexmlsslib como uma dependência.
+ : 
+ : *** Corriginfo unidades usadas e reparando arquivos de formulários ***
+unit_main.pas Note: Propriedade removida "TextHeight".
+unit_main.pas Note: Propriedade removida "OldCreateOrder".
+ Progress: A conversão levou: 00:00:09
+ : Conversão Pronta.
