@@ -954,6 +954,7 @@ begin
   begin
     VPID := AMapping.PID;
     VParams := CreateParams;
+
     if not VPID.IsPersistent then
     begin
       if Map.HasInsertOIDFields then

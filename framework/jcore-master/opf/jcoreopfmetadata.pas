@@ -261,6 +261,7 @@ type
     function IJCorePID.OID = IGetOID;
     function IJCorePID.Owner = IGetOwner;
     procedure SetOID(const AValue: IJCoreOPFOID);
+//    procedure SetIsPersistent(AValue: FIsPersistent);
   protected
     function AcquireADMByAttrAddr(const AAttrAddr: Pointer): TJCoreOPFADM;
     property ADMMap: TJCoreOPFADMMap read FADMMap;
@@ -280,7 +281,7 @@ type
     procedure ReadSequenceField(const AResultSet: IJCoreOPFResultSet);
     procedure WriteSequenceField(const AParams: IJCoreOPFParams);
     property ADMMapping[const AIndex: Integer]: TJCoreOPFADMMapping read GetADMMapping; default;
-    property IsPersistent: Boolean read FIsPersistent;
+    property IsPersistent: Boolean read FIsPersistent write FIsPersistent;
     property Entity: TObject read FEntity;
     property Metadata: TJCoreOPFClassMetadata read FMetadata;
     property OID: IJCoreOPFOID read FOID write SetOID;
